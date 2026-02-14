@@ -3,12 +3,11 @@
 <h1 align="center">Hi 👋, I'm MD Farhan Alam</h1>
 
 <h3 align="center">
-🚀 Software Developer | 🧬 MSc Biotechnology | 🤖 AI & Full-Stack Enthusiast
+🚀 Software Developer | 🧬 MSc Biotechnology | 🤖 AI & Full-Stack Developer
 </h3>
 
 <p align="center">
-Building real-world software solutions with clean, scalable code.<br>
-Passionate about Python, C++, JavaScript, Data Science & Automation.
+Building scalable software and real-world applications with clean architecture and strong problem-solving skills.
 </p>
 
 ---
@@ -17,24 +16,24 @@ Passionate about Python, C++, JavaScript, Data Science & Automation.
 
 - 🎓 Master of Science in Biotechnology  
 - 💻 Software Developer & Computer Programmer  
-- 🔬 Strong analytical and problem-solving background  
-- 🌐 Building Full-Stack Web Apps & Qt Desktop Applications  
-- 📊 Exploring Data Science, AI, and Automation  
-- 🚀 Working independently on real-world practical projects  
+- 🧠 Strong analytical and debugging skills  
+- 🌐 Developing Full-Stack Web Apps & Qt Desktop Software  
+- 📊 Exploring Data Science, Automation & AI Systems  
+- 🚀 Focused on production-ready, scalable projects  
 
 ---
 
 ## 📫 Contact & Portfolio
 
-- 📧 Email: **firdush12@gmail.com**  
-- 🌐 Portfolio: **https://jimmyalam2000.github.io/Farhans_PortFolio_Website/**  
-- 💼 LinkedIn: https://linkedin.com/in/md-farhan-rusafi-alam-a71873288  
+- 📧 **firdush12@gmail.com**
+- 🌐 **Portfolio:** https://jimmyalam2000.github.io/Farhans_PortFolio_Website/
+- 💼 **LinkedIn:** https://linkedin.com/in/md-farhan-rusafi-alam-a71873288  
 
 <div align="center">
-<a href="https://linkedin.com/in/md-farhan-rusafi-alam-a71873288" target="_blank">
+<a href="https://linkedin.com/in/md-farhan-rusafi-alam-a71873288">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/JimmyAlam2000" target="_blank">
+<a href="https://github.com/JimmyAlam2000">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:firdush12@gmail.com">
@@ -44,31 +43,60 @@ Passionate about Python, C++, JavaScript, Data Science & Automation.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Languages
-C++ • Python • JavaScript • TypeScript  
+## 💻 Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+</p>
 
-### 🌐 Frontend
-HTML • CSS • React • Bootstrap • TailwindCSS  
+## 🌐 Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" height="45"/>
+</p>
 
-### ⚙ Backend
-Node.js • Express • NestJS • Django • Flask  
+## ⚙ Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45"/>
+</p>
 
-### 🗄 Databases
-MongoDB • MySQL • SQLite  
+## 🗄 Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
+</p>
 
-### 🧠 Data & AI
-Pandas • PyTorch  
+## 🧠 Data & AI
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+</p>
 
-### 🖥 Desktop & Tools
-Qt • Git • Postman • Photoshop  
+## 🖥 Desktop & Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="45" height="45"/>
+</p>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JimmyAlam2000&theme=2077" height="180em" />
@@ -83,10 +111,10 @@ Qt • Git • Postman • Photoshop
 ## 🎯 Current Focus
 
 - Building scalable SaaS-style web applications  
-- Improving backend architecture & system design  
-- Strengthening Data Science & AI engineering skills  
+- Strengthening backend architecture & system design  
 - Creating deployable, production-ready projects  
+- Advancing AI & Data Engineering skills  
 
 ---
 
-> “Discipline and consistency turn learning into mastery.”
+> “Consistency + Focus = Mastery.”
