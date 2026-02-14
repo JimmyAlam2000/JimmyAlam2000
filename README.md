@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Md Farhan Rusafi Alam" target="_blank">
+  <a href="https://www.linkedin.com/in/md-farhan-rusafi-alam-a71873288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/JimmyAlam2000" target="_blank">
