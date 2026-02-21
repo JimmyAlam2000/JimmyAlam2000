@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MD Farhan Alam</h1>
 
 <h3 align="center">
-  Full-Stack Developer • Software Engineer • Data Science Enthusiast
+  Full-Stack Developer • Software Developer • Data Science Enthusiast
 </h3>
 
 <p align="center">
