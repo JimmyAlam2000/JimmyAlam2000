@@ -7,12 +7,12 @@
 - 📄My Linkedin profile is **https://www.linkedin.com/in/md-farhan-rusafi-alam-a71873288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbOv3rSz0S0isgZe7py9ffw%3D%3D**
 - ⚡This is my Website **https://jimmyalam2000.github.io/Farhans_PortFolio_Website/**
 
-<div> <a href="https://www.linkedin.com/in/Md Farhan Rusafi Alam" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/md-farhan-rusafi-alam-a71873288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvItFPmwnRbmnsKZVYwKzoA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/JimmyAlam2000" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:firdush12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-farhan-rusafi-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Md Farhan Rusafi Alam" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/md-farhan-rusafi-alam-a71873288?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvItFPmwnRbmnsKZVYwKzoA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Md Farhan Rusafi Alam" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
