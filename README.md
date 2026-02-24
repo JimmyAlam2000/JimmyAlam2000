@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm MD Farhan Rusafi Alam</h1>
+<h1 align="center">Hi 👋, I'm Md Farhan Rusafi Alam</h1>
 <h3 align="center">I am a Postgraduate. I have a Master of Science degree in Biotechnology and i am a computer programmer too who does full stack web development, data science, data analysis and software development.</h3>
 
 - 📫 How to reach me **firdush12@gmail.com**
